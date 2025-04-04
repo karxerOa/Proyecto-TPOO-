@@ -17,6 +17,7 @@ public class ProyectoTecProg {
         // TODO code application logic here
         System.out.println("Si les llega funciono");
         System.out.println("hiuh");
+        System.out.println("funvion xfa");
     }
     
 }
