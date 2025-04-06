@@ -19,7 +19,9 @@ public class ProyectoTecProg {
         System.out.println("hiuh");
         System.out.println("funvion xfa");
         System.out.println("Ultima mod");
-        System.out.printlin("HOLAAA");    
+        System.out.printlin("HOLAAA");   
+        System.out.printlin("HOLAAA");   
+        System.out.printlin("HOLAAA");   
         
     }
     
